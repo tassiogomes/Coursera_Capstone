@@ -15,3 +15,8 @@ Inspired by a scenario in which some co-workers will go to Chicago on business, 
 This project's main idea is to predict the potential for a crime to happen close to a nightclub search on foursquare.
 
 Let's go!
+
+# Data
+In this session I will quickly explain the origin and method of data acquisition.
+
+**Crimes occurred in Chicago in 2019** - The data were accessed at: https://data.cityofchicago.org/Public-Safety/Crimes-2019/w98m-zvie, where the API was generated to download in https://data.cityofchicago.org/api/views/w98m-zvie/rows.csv?accessType=DOWNLOAD&api_foundry=true.
