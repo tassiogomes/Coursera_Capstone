@@ -98,7 +98,7 @@ See more details on notebook
 
 
 ## Naive Bayes
-![hot_encoding](capstone_images/navie_bayes.JPG)
+![hot_encoding](capstone_images/naive_bayes.JPG)
 
 ## Decision Forest using a Random Forest
 
