@@ -107,3 +107,11 @@ See more details on notebook
 ## Best model
 
 ![hot_encoding](capstone_images/best_model.JPG)
+
+## Predict the Final Performance of the Model
+
+![hot_encoding](capstone_images/best_model_performance.JPG)
+
+## Important features
+
+![hot_encoding](capstone_images/importance.JPG)
