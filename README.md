@@ -26,20 +26,28 @@ The data were accessed at: https://data.cityofchicago.org/Public-Safety/Crimes-2
 
 After some procedures for cleaning the data and creating new columns (which can be seen in detail in the attached notebook, remember, we are in the "Readme"), a new dataframe was created for the crimes that occurred in 2019.
 
-![df_top_venues](capstone_images/crime_2019.JPG)
+![crime_2019](capstone_images/crime_2019.JPG)
 
 ## Descriptive statistics of Chicago crimes
 ## Graphs
 
-![df_top_venues](capstone_images/cases_per_month.JPG)
-![df_top_venues](capstone_images/cases_per_dayofweek.JPG)
-![df_top_venues](capstone_images/cases_per_hour.JPG)
-![df_top_venues](capstone_images/top3_crimes_table.JPG)
-![df_top_venues](capstone_images/top3_per_month.JPG)
-![df_top_venues](capstone_images/top3_per_dayofweek.JPG)
-![df_top_venues](capstone_images/top3_per_hour.JPG)
+![graphs](capstone_images/cases_per_month.JPG)
+![graphs](capstone_images/cases_per_dayofweek.JPG)
+![graphs](capstone_images/cases_per_hour.JPG)
+![graphs](capstone_images/top3_crimes_table.JPG)
+![graphs](capstone_images/top3_per_month.JPG)
+![graphs](capstone_images/top3_per_dayofweek.JPG)
+![graphs](capstone_images/top3_per_hour.JPG)
 
 ## Maps 
+### Distribution of the 3 most common types of crimes in Chicago in july or reasons of ease of processing data.
+![map](capstone_images/top3_crimes_july_points.JPG)
+
+### The same data in cluster view
+![map](capstone_images/top3_crimes_july_clusters.JPG)
+
+### Heat map
+![map](capstone_images/top3_crimes_july_heatmap.JPG)
 
 ## Nightclubs
 With a focus on a particular region where there are many blogs talking about nightlife, the data was taken by the link below, where it was focused on a particular region and nightlife.
