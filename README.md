@@ -30,13 +30,13 @@ After some procedures for cleaning the data and creating new columns (which can 
 
 ### Descriptive statistics of Chicago crimes
 
-![df_top_venues](capstone_images/cases_per_months.JPG)
+![df_top_venues](capstone_images/cases_per_month.JPG)
 ![df_top_venues](capstone_images/cases_per_dayofweek.JPG)
 ![df_top_venues](capstone_images/cases_per_hour.JPG)
 ![df_top_venues](capstone_images/top3_crimes_table.JPG)
-![df_top_venues](capstone_images/top3__per_months.JPG)
-![df_top_venues](capstone_images/top3__per_dayofweek.JPG)
-![df_top_venues](capstone_images/top3__per_hour.JPG)
+![df_top_venues](capstone_images/top3_per_month.JPG)
+![df_top_venues](capstone_images/top3_per_dayofweek.JPG)
+![df_top_venues](capstone_images/top3_per_hour.JPG)
 
 ## Nightclubs
 With a focus on a particular region where there are many blogs talking about nightlife, the data was taken by the link below, where it was focused on a particular region and nightlife.
