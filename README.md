@@ -57,4 +57,14 @@ You can see more details in the attached notebook.
 
 ![df_top_venues](capstone_images/df_top_venues.JPG)
 
+## Maps 
+
+### Initially the top 3 nightclubs were selected based on the likes received on foursquare, however, later those 3 were insufficient, with that, I used the top 30 nightclubs.
+
+On the map you can see the 3 initials in red and the rest in black.
+![df_top_venues](capstone_images/top3_venues.JPG)
+
+### Heat map of crimes and nightclubs
+
+![top3_venues_crimes_heatmap](capstone_images/top3_venues_crimes_heatmap.JPG)
 
