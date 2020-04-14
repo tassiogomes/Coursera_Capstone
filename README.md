@@ -115,3 +115,10 @@ See more details on notebook
 ## Important features
 
 ![hot_encoding](capstone_images/importance.JPG)
+
+
+# 4 - Results
+
+It was not possible to predict where and when crimes will happen, however, a binary combination was made where 0 to represent without crime and 1 to represent potentially that a crime will happen.
+
+![process_1](capstone_images/process_1.JPG)
