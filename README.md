@@ -68,3 +68,20 @@ On the map you can see the 3 initials in red and the rest in black.
 
 ![top3_venues_crimes_heatmap](capstone_images/top3_venues_crimes_heatmap.JPG)
 
+
+# 3 - Methodology
+
+## Modeling
+
+### Transform dataframa in only numerical and remove descriptive columns
+See more details on notebook
+
+![hot_encoding](capstone_images/hot_encoding.JPG)
+
+## Models
+**Modelling task was turned into a simple binary classification task by only modelling based on the top two most occuring crimes. For each model development 10 Fold Cross Validation was used to ensure the best results were achieved and a Grid Search approach was used to determine the best setting for each of the models** 
+
+### Cross validation
+
+![hot_encoding](capstone_images/cross_validation.JPG)
+
