@@ -87,19 +87,23 @@ See more details on notebook
 
 ## K Nearest Neighbours
 **KNN Model was discovered the K = 9 gave the best results:
-![hot_encoding](capstone_images/cross_validation.JPG)
+![hot_encoding](capstone_images/knn_model.JPG)
 
 ## Decision Three
 **A tree depth of 15 gave the best model performance:**
-![hot_encoding](capstone_images/cross_validation.JPG)
+![hot_encoding](capstone_images/decision_three.JPG)
 
 ## Logistic Regression
-![hot_encoding](capstone_images/cross_validation.JPG)
+![hot_encoding](capstone_images/logistic_regression.JPG)
 
 
 ## Naive Bayes
-![hot_encoding](capstone_images/cross_validation.JPG)
+![hot_encoding](capstone_images/navie_bayes.JPG)
 
 ## Decision Forest using a Random Forest
 
-![hot_encoding](capstone_images/cross_validation.JPG)
+![hot_encoding](capstone_images/forest_model.JPG)
+
+## Best model
+
+![hot_encoding](capstone_images/best_model.JPG)
