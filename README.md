@@ -24,6 +24,9 @@ The data were accessed at: https://data.cityofchicago.org/Public-Safety/Crimes-2
 
 ![df_top_venues](capstone_images/original_crimes.JPG)
 
+After some procedures for cleaning the data and creating new columns (which can be seen in detail in the attached notebook, remember, we are in the "Readme"), a new dataframe was created for the crimes that occurred in 2019.
+
+![df_top_venues](capstone_images/crime_2019.JPG)
 
 ## Nightclubs
 With a focus on a particular region where there are many blogs talking about nightlife, the data was taken by the link below, where it was focused on a particular region and nightlife.
