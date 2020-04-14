@@ -137,4 +137,4 @@ y^ (y_hat) or the predictions were then made
 For this reason, some columns were created manually with values 0 and included manually.
 See the difference on the notebook.
 
-![array](capstone_images/prediction.JPG)
+![prediction](capstone_images/prediction.jpg)
