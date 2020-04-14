@@ -28,7 +28,8 @@ After some procedures for cleaning the data and creating new columns (which can 
 
 ![df_top_venues](capstone_images/crime_2019.JPG)
 
-### Descriptive statistics of Chicago crimes
+## Descriptive statistics of Chicago crimes
+## Graphs
 
 ![df_top_venues](capstone_images/cases_per_month.JPG)
 ![df_top_venues](capstone_images/cases_per_dayofweek.JPG)
@@ -37,6 +38,8 @@ After some procedures for cleaning the data and creating new columns (which can 
 ![df_top_venues](capstone_images/top3_per_month.JPG)
 ![df_top_venues](capstone_images/top3_per_dayofweek.JPG)
 ![df_top_venues](capstone_images/top3_per_hour.JPG)
+
+## Maps 
 
 ## Nightclubs
 With a focus on a particular region where there are many blogs talking about nightlife, the data was taken by the link below, where it was focused on a particular region and nightlife.
