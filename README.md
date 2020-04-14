@@ -19,11 +19,18 @@ Let's go!
 # Data
 In this session I will quickly explain the origin and method of data acquisition.
 
-**Crimes occurred in Chicago in 2019** - The data were accessed at: https://data.cityofchicago.org/Public-Safety/Crimes-2019/w98m-zvie, where the API was generated to download in https://data.cityofchicago.org/api/views/w98m-zvie/rows.csv?accessType=DOWNLOAD&api_foundry=true.
+## Crimes occurred in Chicago in 2019 
+The data were accessed at: https://data.cityofchicago.org/Public-Safety/Crimes-2019/w98m-zvie, where the API was generated to download in https://data.cityofchicago.org/api/views/w98m-zvie/rows.csv?accessType=DOWNLOAD&api_foundry=true.
 
-**Nightclubs** - With a focus on a particular region where there are many blogs talking about nightlife, the data was taken by the link below, where it was focused on a particular region and nightlife.
+![df_top_venues](capstone_images/original_crimes.JPG)
+
+
+## Nightclubs
+With a focus on a particular region where there are many blogs talking about nightlife, the data was taken by the link below, where it was focused on a particular region and nightlife.
 https://foursquare.com/explore?mode=url&ne=41.893525%2C-87.622678&q=Nightlife&sw=41.886624%2C-87.635788.
 The data was retrieved by a foursquare API where my credentials were introduced and the link above, where it was converted to HTML where I took the most important "classes".
 You can see more details in the attached notebook.
 
 ![df_top_venues](capstone_images/df_top_venues.JPG)
+
+
