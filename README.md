@@ -16,7 +16,7 @@ This project's main idea is to predict the potential for a crime to happen close
 
 Let's go!
 
-# Data
+# 2 - Data
 In this session I will quickly explain the origin and method of data acquisition.
 
 ## Crimes occurred in Chicago in 2019 
