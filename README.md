@@ -156,3 +156,18 @@ It is observed that 3 sites out of 30 have 1 in the "prediction" column.
 ## 3 - Pops for Champagne
 
 ![pops](capstone_images/pops.JPG)
+
+# Conclusion
+
+First of all, I have to mention the growth of my skills after all the courses of the IBM Data Science Professional Certificate, all the challenges proposed were of great value for the accomplishment of this project.
+
+The objectives were achieved despite some problems midway through.
+The basic plan of the Foursquare API for Developers has a very short limit of consultations per day and until I get used to it, I exceeded that limit several times, making me have to wait for the next day and later having to pass the data to my personal drive and introducing it again.
+
+# Discussion
+
+Chicago is to be congratulated for providing open data with this quality and with an extremely interactive and simple platform, even having an area for developers.
+
+Today (2020), we are experiencing the Coronavirus pandemic and I have observed many platforms developed for this cause, with humanitarian aid from data scientists to carry out projects on top of the data.
+
+With the example of Chicago and the available data on Cornonavirus ... Shouldn't they look more at the importance of data and its availability?
