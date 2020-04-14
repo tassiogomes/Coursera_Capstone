@@ -1,5 +1,8 @@
 # Coursera_Capstone
-Final course of IBM Data Science Professional Certificate by Coursera
+Final course of IBM Data Science Professional Certificate by Coursera.
+
+Requisites:
+1- Introduction | 2- Data | 3- Methodology | 4 - Results | 5 - Discussion | 6- Conclusion
 # Introduction 
 Many world metropolises have overpopulation and high purchasing power in common. This mixture of ingredients often leads to high crime rates.
 Since tourists do not have an in-depth knowledge of common crime points, this project was inspired by the protection of these tourists.
