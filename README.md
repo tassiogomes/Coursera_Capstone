@@ -137,4 +137,22 @@ y^ (y_hat) or the predictions were then made
 For this reason, some columns were created manually with values 0 and included manually.
 See the difference on the notebook.
 
+It is observed that 3 sites out of 30 have 1 in the "prediction" column.
+
 ![prediction](capstone_images/prediction.jpg)
+
+## Visualisation of Predictions
+
+1 - Enolo Wine Cafe | 2 - Three Dots and Dash | 3 - Pops for Champagne
+
+### Total visualization
+
+![total](capstone_images/total.JPG)
+
+## 1 - Enolo Wine Cafe | 2 - Three Dots and Dash
+
+![enolo](capstone_images/enolo_three.JPG)
+
+## 3 - Pops for Champagne
+
+![pops](capstone_images/pops.JPG)
