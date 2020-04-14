@@ -25,3 +25,4 @@ In this session I will quickly explain the origin and method of data acquisition
 https://foursquare.com/explore?mode=url&ne=41.893525%2C-87.622678&q=Nightlife&sw=41.886624%2C-87.635788.
 The data was retrieved by a foursquare API where my credentials were introduced and the link above, where it was converted to HTML where I took the most important "classes".
 You can see more details in the attached notebook.
+
