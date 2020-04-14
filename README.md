@@ -74,7 +74,7 @@ On the map you can see the 3 initials in red and the rest in black.
 ## Modeling
 
 ### Transform dataframa in only numerical and remove descriptive columns
-See more details on notebook
+See more details on the notebook
 
 ![hot_encoding](capstone_images/hot_encoding.JPG)
 
@@ -122,3 +122,19 @@ See more details on notebook
 It was not possible to predict where and when crimes will happen, however, a binary combination was made where 0 to represent without crime and 1 to represent potentially that a crime will happen.
 
 ![process_1](capstone_images/process_1.JPG)
+
+## Test Data
+The test data was contructed from the the Top Venues Data Frame (nightclubs):
+
+Next a random date and time was assigned to each venue.
+The date was then split into Hour, Day of Week, Month and Year as described above
+The data was finally prepared for prediction by applying One Hot encoding and then extracted into a new dataframe that match the format used to create the model.
+y^ (y_hat) or the predictions were then made
+
+![array](capstone_images/array.JPG)
+
+**Important** - Due to the fact that the top venues (30 night clubs) do not have crimes at all hours or every month, the dataframe created did not have its complete picture, with some columns missing, however, the model was created on top of all data, which have all columns, when generating the forecast, an error occurred in which the model did not have the same number of columns as the top venues data.
+For this reason, some columns were created manually with values 0 and included manually.
+See the difference on the notebook.
+
+![prediction_1](capstone_images/prediction_1.JPG)
