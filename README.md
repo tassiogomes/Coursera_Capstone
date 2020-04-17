@@ -141,7 +141,7 @@ It is observed that 3 sites out of 30 have 1 in the "prediction" column.
 
 ![prediction](capstone_images/prediction.jpg)
 
-## Visualisation of Predictions
+## Visualization of Predictions
 
 1 - Enolo Wine Cafe | 2 - Three Dots and Dash | 3 - Pops for Champagne
 
